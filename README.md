@@ -1,3 +1,5 @@
+ <img width="194" alt="image" src="https://github.com/janhhhaviii/EchoAI/assets/159648528/a2fe5784-f076-4111-91cd-48acccdbd0d4">
+
 # Group Conversation Summarizer
 
 This project aims to automatically summarize group conversations by identifying different speakers, segmenting the conversation, converting audio to text, and then using a Natural Language Processing (NLP) model to generate a summary.
