@@ -2,7 +2,7 @@
 
 # Group Conversation Summarizer
 
-This project aims to automatically summarize group conversations by identifying different speakers, segmenting the conversation, converting audio to text, and then using a Natural Language Processing (NLP) model to generate a summary.
+This project aims to automatically summarize group conversations by identifying speakers, segmenting the conversation, converting audio to text, and then using a Natural Language Processing (NLP) model to generate a actionable insights .
 
 ## Table of Contents
 - [Overview](#overview)
@@ -11,25 +11,22 @@ This project aims to automatically summarize group conversations by identifying 
 - [Installation](#installation)
 - [Contributing](#contributing)
 - [License](#license)
-
-## Overview
-
-In many group discussions, especially in meetings or interviews, it can be challenging to keep track of who said what and to distill the key points from the conversation. This project addresses this challenge by providing an automated solution to summarize group conversations. 
+ 
 
 ## Features
 
 1. **Speaker Identification**: Utilizes audio processing techniques to identify different speakers in the conversation.
-2. **Segmentation**: Divides the conversation into distinct parts, each corresponding to a different speaker's turn.
+2. **Segmentation**: Divides the conversation into distinct parts.
 3. **Audio-to-Text Conversion**: Converts the audio segments into text transcripts.
-4. **NLP Summarization**: Applies NLP techniques to generate a concise summary of the conversation.
+4. **NLP Summarization**: Applies NLP techniques to generate a actionable insights of the conversation.
 
 ## Usage
 
 To use this tool, follow these steps:
 
 1. **Input**: Provide the audio file containing the group conversation.
-2. **Processing**: The system will process the audio, identifying speakers, segmenting the conversation, and converting it to text.
-3. **Output**: Finally, the NLP model will generate a summary of the conversation.
+2. **Processing**: The system will process the audio, identifying speaker, segmenting the conversation, and converting it to text.
+3. **Output**: Finally, the NLP model will give insights of the conversation.
 
 ## Installation
 
